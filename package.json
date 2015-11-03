@@ -1,8 +1,8 @@
 {
-  "title": "My first addon",
-  "name": "first-addon",
+  "title": "Facebook is not healthy",
+  "name": "facebook-is-not-healthy",
   "version": "0.0.1",
-  "description": "A basic add-on",
+  "description": "This extension will not show facebook content. Help you focus to work.",
   "main": "index.js",
   "author": "StA",
   "engines": {
